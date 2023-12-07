@@ -3,7 +3,6 @@ package com.emanuel.cursomc.services;
 import java.util.Optional;
 
 import org.hibernate.ObjectNotFoundException;
-import org.hibernate.mapping.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
